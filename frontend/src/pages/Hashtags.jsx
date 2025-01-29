@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Demographics = () => {
+const Hashtags = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Demographics = () => {
   )
 }
 
-export default Demographics
+export default Hashtags
